@@ -1,2 +1,2 @@
 # shell_scripts
-common shell scripts
+common shell scripts for personal use
